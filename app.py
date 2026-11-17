@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # PASTE YOUR DETAILS HERE
 MY_EMAIL = "your_email@gmail.com" 
-MY_APP_PASS = qzzgpjxqbrzkrspm
+MY_APP_PASS = 136788
 
 @app.route('/', methods=['POST', 'OPTIONS'])
 def catch():
